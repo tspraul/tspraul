@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tyson Spraul Launches Site"
+title: "Tyson Spraul Launches Site_x"
 date: 2020-11-15
 ---
 
