@@ -1,31 +1,9 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-      			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="css/main.css">
-			
-			<h1>{{ page.title }}</h1>
-      			<p class="meta">{{ page.date | date_to_string }}</p>	
-    		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="https://tspraul.github.io/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ page.date | date_to_string }}</p>
 
-      			<div class="post">
-        			{{ content }}
-      			</div>
-		</body>
-		<footer>
-	    		<ul>
-	        		<li><a href="mailto:tspraul@gmail.com">email</a></li>
-        			<li><a href="https://github.com/tspraul">github.com/tspraul</a></li>
-			</ul>
-		</footer>
-	</html>
-
+<div class="post">
+  {{ content }}
+</div>
