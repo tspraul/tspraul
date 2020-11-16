@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tyson Spraul Launches Site"
+title: "Site Launch"
 date: 2020-11-15
 ---
 
