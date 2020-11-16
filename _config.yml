@@ -1,3 +1,4 @@
 name: Tyson Spraul
 markdown: kramdown
 baseurl: /tspraul
+permalink: /blog/:year/:month/:day/:title
