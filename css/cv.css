@@ -2,7 +2,7 @@ main * {
     font-family: 'Segoe UI', "Droid Sans", Roboto, Arial, sans-serif;
 }
 
-main p, main li {
+p, li {
     font-size: 12pt;
     line-height: 1.5em;
     word-spacing: 1px;
@@ -10,18 +10,18 @@ main p, main li {
     padding: 0 0 0 0;
 }
 
-main li > p {
+li > p {
     display: inline-flex;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
     text-indent: 0;
 }
 
-main li + li > p {
+li + li > p {
     padding-top: 0.5em;
 }
 
-main ul {
+ul {
     margin: 0;
     list-style-type: none;
     list-style-position: outside;
@@ -30,16 +30,16 @@ main ul {
     text-indent: -1em;
 }
 
-main ul li {
+ul li {
     padding: 0;
     margin: 0;
 }
 
-main ul li:before {
+ul li:before {
     content: "\25B8 \0020";
 }
 
-main li + li {
+li + li {
     padding-top: 0.2em;
 }
 
@@ -61,7 +61,7 @@ h2 {
     margin-top: 1.5em;
 }
 
-main p + p, main p + ul {
+p + p, main p + ul {
     margin-top: 0.75em;
 }
 
