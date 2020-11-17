@@ -2,6 +2,11 @@
     font-family: 'Segoe UI', "Droid Sans", Roboto, Arial, sans-serif;
 }
 
+img {
+  	width: 50%;
+	height: 50%;
+}
+
 p, li {
     font-size: 12pt;
     line-height: 1.5em;
