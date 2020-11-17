@@ -52,7 +52,7 @@ main h1 {
     display: block;
 }
 
-main h2 {
+h2 {
     display: block;
     background: #e8e8e8;
     padding: 0;
