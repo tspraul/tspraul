@@ -61,7 +61,7 @@ h2 {
     margin-top: 1.5em;
 }
 
-p + p, main p + ul {
+p + p, p + ul {
     margin-top: 0.75em;
 }
 
@@ -83,7 +83,7 @@ h2 + h3 {
     margin-top: 0.25em;
 }
 
-p + h3, main ul + h3 {
+p + h3, ul + h3 {
     margin-top: 1em;
 }
 
