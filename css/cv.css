@@ -3,7 +3,8 @@
 }
 
 nav ul, footer ul {
-    margin-left: 20px;
+    margin-top: 20px;
+    margin-left: 18px;
 }
 
 nav ul li:before, footer ul li:before {
@@ -23,7 +24,7 @@ img.profile {
   	width: 18%;
 	height: 18%;
 	float: right;
-	margin: 5px;
+	margin-right: 10px;
 }
 
 p, li {
