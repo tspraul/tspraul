@@ -6,6 +6,13 @@ nav ul li:before, footer ul li:before {
     content: none;
 }
 
+nav ul li, footer ul li {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
 img.profile {
   	width: 18%;
 	height: 18%;
