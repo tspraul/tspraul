@@ -24,7 +24,8 @@ img.profile {
   	width: 18%;
 	height: 18%;
 	float: right;
-	margin-right: 10px;
+	margin-right: 5px;
+	margin-bottom: 5px;
 }
 
 p, li {
