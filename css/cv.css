@@ -2,8 +2,8 @@
     font-family: 'Segoe UI', "Droid Sans", Roboto, Arial, sans-serif;
 }
 
-nav ul li:before {
-    content: "\0020 \0020";
+nav ul li:before, footer ul li:before {
+    content: none;
 }
 
 img.profile {
