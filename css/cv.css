@@ -2,6 +2,13 @@
     font-family: 'Segoe UI', "Droid Sans", Roboto, Arial, sans-serif;
 }
 
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
 nav ul li:before, footer ul li:before {
     content: none;
 }
@@ -11,6 +18,8 @@ nav ul li, footer ul li {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    display: inline;
+    margin-right: 20px;
 }
 
 img.profile {
