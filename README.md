@@ -2,7 +2,7 @@
 I'm best known as an elementary school STEAM coach and design teacher. Beginning to collect some projects here as I advance my coding skills.
 - 🌱 I’m currently learning...C, HTML, and CSS.
 - 👯 I’m looking to collaborate on...projects in the education and learning space.
-- 🤔 I’m looking for professional experience with...edtech startups--entry level, free-lance, or even unpaid internships.
+- 🤔 I’m looking for professional experience with...edtech startups--entry level, free-lance, or even unpaid internships. Have a look at my [resume](https://tspraul.github.io/tspraul/cv/).
 
 <!--
 **tspraul/tspraul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
