@@ -1,6 +1,6 @@
 ### Hey there 👋
 I'm an elementary school STEAM coach and design teacher.
-- 🌱 I’m currently learning...C3 social studies framework.
+- 🌱 I’m currently learning...generative AI.
 - ⚡ I have a keen interest in creating physical and online spaces that inspire and nuture self-directed learning.
 - Have a look at my [resume](https://tspraul.github.io/tspraul/cv/).
 
